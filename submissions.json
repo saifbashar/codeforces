@@ -183,6 +183,22 @@
     ],
     "timestamp": "Dec/20/2020 21:13"
   },
+  "CF88606602": {
+    "contest_id": 59,
+    "language": "GNU C11",
+    "path": "codeforces\\59\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Word",
+    "problem_url": "https://codeforces.com/contest/59/problem/A",
+    "submission_id": "CF88606602",
+    "submission_url": "https://codeforces.com/contest/59/submission/88606602",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jul/31/2020 21:52"
+  },
   "CF90239230": {
     "contest_id": 318,
     "language": "GNU C11",
