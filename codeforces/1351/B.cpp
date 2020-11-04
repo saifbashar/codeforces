@@ -39,8 +39,11 @@ void solve(void)
    max2 = max(c,d);
    min1 = min(a,b);
    min2 = min(c,d);
-  
-   if((min1<max1 && min2<max2) && min1>0 && min2>0 && (max1== max2) && min1+min2==max1)
+   float k;
+   ll j;
+   j = (a*b) + (b*c);
+   k = sqrt(j);
+   if(j = k*k  && (max1== max2) && min1+min2==max1)
    {
    	cout<<"YES"<<endl;
    }
