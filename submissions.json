@@ -1,4 +1,21 @@
 {
+  "CF101174061": {
+    "contest_id": 822,
+    "language": "GNU C++17",
+    "path": "codeforces\\822\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "I'm bored with life",
+    "problem_url": "https://codeforces.com/contest/822/problem/A",
+    "submission_id": "CF101174061",
+    "submission_url": "https://codeforces.com/contest/822/submission/101174061",
+    "tags": [
+      "implementation",
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Dec/14/2020 19:36"
+  },
   "CF101175405": {
     "contest_id": 1133,
     "language": "GNU C++17",
