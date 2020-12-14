@@ -1,4 +1,19 @@
 {
+  "CF101166851": {
+    "contest_id": 946,
+    "language": "GNU C++17",
+    "path": "codeforces\\946\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Partition",
+    "problem_url": "https://codeforces.com/contest/946/problem/A",
+    "submission_id": "CF101166851",
+    "submission_url": "https://codeforces.com/contest/946/submission/101166851",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Dec/14/2020 18:03"
+  },
   "CF101174061": {
     "contest_id": 822,
     "language": "GNU C++17",
